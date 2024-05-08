@@ -1,2 +1,40 @@
-# simple-streamlit-webapp
-This repository, simple-streamlit-webapp, demonstrates how to convert Python code into interactive web applications using Streamlit. It's perfect for beginners and developers eager to prototype their data-driven projects quickly. Includes basic examples and easy setup instructions.
+
+# Streamlit Simple Test
+
+## 概要
+このリポジトリには、Streamlitを使用して作成した簡単なWebアプリケーションのサンプルコードが含まれています。フロントエンドの技術に詳しくなくても、Pythonを使って迅速にインタラクティブなWebアプリケーションを構築できることを示す例です。
+
+## 主な機能
+- ユーザーからの入力を受け取るテキストフィールド
+- ユーザーの入力に基づいて挨拶を表示する機能
+
+## 必要条件
+- Python 3.x
+- Streamlitライブラリ
+
+## セットアップ
+以下の手順に従って、必要なライブラリをインストールしてください:
+
+```bash
+pip install streamlit
+```
+
+## 使用方法
+1. スクリプトが存在するディレクトリに移動します。
+2. 以下のコマンドを実行してください:
+
+```bash
+streamlit run streamlit_simple_test.py
+```
+
+3. ブラウザが自動的に開き、アプリケーションが表示されます。
+
+## ライセンス
+このプロジェクトは[MITライセンス](LICENSE)の下で公開されています。詳細は`LICENSE`ファイルを参照してください。
+
+## 作者
+Murasan201  
+[https://murasan-net.com/](https://murasan-net.com/)
+
+## 謝辞
+このプロジェクトに貢献してくれたすべての人々に感謝します.
